@@ -1,14 +1,14 @@
 {
-  "name": "SONIC-MD",
+  "name": "ABHI-SER",
   "description": "A WHATSAPP MD BOT CREATED BY KALINDU...",
-  "logo": "https://telegra.ph/file/9b152f452d62d0f5a206a.jpg",
+  "logo": "https://telegra.ph/file/9dfd3b7d76890b51a5a76.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "TYPE YOUR BOT OWNER NAME...😊",
-      "value": "KALINDU"
+      "value": "ABHI-SER"
       },
     "HEROKU_API_KEY": {
     "description": "TYPE HEROKU API KEY...😊",
@@ -20,7 +20,7 @@
     },
    "THUMB_IMAGE": {
     "description": "TYPE BOT ALIVE LOGO LINK...😊 .",
-     "value": "https://telegra.ph/file/9b152f452d62d0f5a206a.jpg"
+     "value": "https://telegra.ph/file/9dfd3b7d76890b51a5a76.jpg"
     },
    "ANTILINK_VALUES": {
     "description": "TYPE AUTO REMOVE LINK SENDERS SNI...😊",
@@ -44,7 +44,7 @@
   },
   "OWNER_NUMBER": {
     "description": "GIVE OWNER NUMBER...😊",    
-      "value": "94758179948"
+      "value": "918943735761"
   },
    "SESSION_ID": {
     "description": "GIVE SESSION_ID AFTER QR SCAN...😊 "
@@ -72,7 +72,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "KALINDU;SONIC-MD",
+     "value": "ABHI-SER;EX-MOD,",
      "required": false 
    },
    "heroku": {
