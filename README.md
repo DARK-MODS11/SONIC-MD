@@ -2,8 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+SONIC-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+💝KALINDU💝;PUBLIC+RELESED+DATE;2023.07.29;ALL+COMMANDS+ARE+ENCRPTED." alt="Typing SVG" /></a>
   
 <p align="center">  
-  <a href="https://chat.whatsapp.com/LkP8QZqdhXUKxmc0hUPip5">
-    <img alt=Support height="300" src="https://telegra.ph/file/2408d7efdb0b956524f78.jpg">
+  <a href="https://chat.whatsapp.com/LN8J9nDMrYIAUTIL3o5Er3">
+    <img alt=Support height="300" src="https://telegra.ph/file/9dfd3b7d76890b51a5a76.jpg">
 
 ●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
 
@@ -17,7 +17,7 @@
    
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KALINDU-LK/SONIC-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARK-MODS11/SONIC-MD)
 ---------
 
 ## ```KOYEB DEPLOYMENT``` 
